@@ -1,5 +1,16 @@
 # 💸 FinanceFlow
 
+## 📸 Preview
+
+### Dashboard
+
+![FinanceFlow dashboard preview](financeflow-preview.png)
+
+### Charts and Budget
+
+![FinanceFlow charts and budget](financeflow-charts.png)
+
+
 **A personal finance dashboard to track income, expenses, transactions, and monthly budgets.**
 
 FinanceFlow is a responsive web application built with HTML, CSS, and JavaScript. It provides a clear overview of personal finances through interactive charts, transaction management, monthly summaries, and budget tracking.
